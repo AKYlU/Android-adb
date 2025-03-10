@@ -1,0 +1,18 @@
+no remove
+
+android
+com.android.keychain
+com.android.localtransport
+com.android.location.fused
+com.android.dynsystem
+com.android.bluetooth
+com.android.launcher3
+com.android.settings
+com.android.shell
+com.android.providers.settings
+com.google.android.connectivity.resources
+permissioncontroller
+sdksandbox
+wifi.resources
+com.google.android.networkstack 
+networkstack.tethering
