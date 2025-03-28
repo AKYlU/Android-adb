@@ -1,1 +1,2 @@
 sudo pacman -S android-tools
+emerge dev-util/android-tools
