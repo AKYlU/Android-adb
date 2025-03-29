@@ -98,7 +98,6 @@ com.android.unisoc.telephony.server
 com.android.virtualmachine.res
 com.android.vpndialogs
 com.android.wallpaper
-com.android.wallpaper.livepicker
 com.android.wallpaperbackup
 com.android.wallpapercropper
 com.android.wifi.resources.uni_marlin3
