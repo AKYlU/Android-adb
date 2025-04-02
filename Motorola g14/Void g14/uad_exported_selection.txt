@@ -58,7 +58,6 @@ com.android.nfc
 com.android.ons
 com.android.overlay.wallpaperconfig
 com.android.pacprocessor
-com.android.phone
 com.android.phone.auto_generated_rro_product__
 com.android.phone.injection
 com.android.printspooler
@@ -121,7 +120,6 @@ com.google.android.apps.carrier.carrierwifi
 com.google.android.apps.docs
 com.google.android.apps.googleassistant
 com.google.android.apps.maps
-com.google.android.apps.messaging
 com.google.android.apps.nbu.files
 com.google.android.apps.photos
 com.google.android.apps.restore
@@ -211,7 +209,6 @@ com.motorola.livewallpaper3
 com.motorola.motocare
 com.motorola.motocit
 com.motorola.motosignature.app
-com.motorola.odm.camera3
 com.motorola.paks
 com.motorola.paks.notification
 com.motorola.timeweatherwidget
