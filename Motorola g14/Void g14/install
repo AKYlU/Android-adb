@@ -1,2 +1,3 @@
 sudo pacman -S android-tools
 emerge dev-util/android-tools
+adb shell pm disable-user --user 0 com.facebook.katana
