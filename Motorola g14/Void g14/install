@@ -1,3 +1,5 @@
 sudo pacman -S android-tools
 emerge dev-util/android-tools
 adb shell pm disable-user --user 0 com.facebook.katana
+adb shell pm uninstall --user 0 com.android.launcher3
+Fluid Navigation Gestures
